@@ -1,0 +1,198 @@
+Breed,Weight_Male_Min,Weight_Male_Max,Weight_Female_Min,Weight_Female_Max,Size_Male,Size_Female,Url
+Affenpinschers,7.0,10.0,7.0,10,Small,Small,https://www.akc.org/dog-breeds/affenpinscher/
+Afghan Hounds,50.0,60.0,50.0,60,Medium,Medium,https://www.akc.org/dog-breeds/afghan-hound/
+Airedale Terriers,50.0,70.0,50.0,70,Medium,Medium,https://www.akc.org/dog-breeds/airedale-terrier/
+Akitas,100.0,130.0,70.0,100,Large,Large,https://www.akc.org/dog-breeds/akita/
+Alaskan Malamutes,85.0,85.0,75.0,75,Large,Large,https://www.akc.org/dog-breeds/alaskan-malamute/
+American English Coonhounds,45.0,65.0,45.0,65,Medium,Medium,https://www.akc.org/dog-breeds/american-english-coonhound/
+American Eskimo Dogs (Miniature),10.0,20.0,10.0,20,Small,Small,https://www.akc.org/dog-breeds/american-eskimo-dog/
+American Eskimo Dogs (Standard),25.0,35.0,20.0,35,Medium,Small,https://www.akc.org/dog-breeds/american-eskimo-dog/
+American Eskimo Dogs (Toy),6.0,10.0,6.0,10,Small,Small,https://www.akc.org/dog-breeds/american-eskimo-dog/
+American Foxhounds,65.0,70.0,60.0,65,Large,Large,https://www.akc.org/dog-breeds/american-foxhound/
+American Hairless Terriers,12.0,16.0,12.0,16,Small,Small,https://www.akc.org/dog-breeds/american-hairless-terrier/
+American Staffordshire Terriers,55.0,70.0,40.0,55,Large,Medium,https://www.akc.org/dog-breeds/american-staffordshire-terrier/
+American Water Spaniels,30.0,45.0,25.0,40,Medium,Medium,https://www.akc.org/dog-breeds/american-water-spaniel/
+Anatolian Shepherd Dogs,110.0,150.0,80.0,120,Giant,Large,https://www.akc.org/dog-breeds/anatolian-shepherd-dog/
+Australian Cattle Dogs,35.0,50.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/australian-cattle-dog/
+Australian Shepherds,50.0,65.0,40.0,55,Medium,Medium,https://www.akc.org/dog-breeds/australian-shepherd/
+Australian Terriers,12.0,18.0,12.0,18,Small,Small,https://www.akc.org/dog-breeds/australian-terrier/
+Basenjis,24.0,24.0,22.0,22,Medium,Medium,https://www.akc.org/dog-breeds/basenji/
+Basset Hounds,40.0,65.0,40.0,65,Medium,Medium,https://www.akc.org/dog-breeds/basset-hound/
+Beagles (13 inches & under),20.0,20.0,20.0,20,Small,Small,https://www.akc.org/dog-breeds/beagle/
+Beagles (13-15 inches),20.0,30.0,20.0,30,Small,Small,https://www.akc.org/dog-breeds/beagle/
+Bearded Collies,45.0,55.0,45.0,55,Medium,Medium,https://www.akc.org/dog-breeds/bearded-collie/
+Beaucerons,70.0,110.0,70.0,110,Large,Large,https://www.akc.org/dog-breeds/beauceron/
+Bedlington Terriers,17.0,23.0,17.0,23,Small,Small,https://www.akc.org/dog-breeds/bedlington-terrier/
+Belgian Malinois,60.0,80.0,40.0,60,Large,Medium,https://www.akc.org/dog-breeds/belgian-malinois/
+Belgian Sheepdogs,55.0,75.0,45.0,60,Large,Medium,https://www.akc.org/dog-breeds/belgian-sheepdog/
+Belgian Tervuren,55.0,75.0,45.0,60,Large,Medium,https://www.akc.org/dog-breeds/belgian-tervuren/
+Bergamasco,70.0,84.0,57.0,71,Large,Large,https://www.akc.org/dog-breeds/bergamasco/
+Berger Picards,50.0,70.0,50.0,70,Medium,Medium,https://www.akc.org/dog-breeds/berger-picard/
+Bernese Mountain Dogs,80.0,115.0,70.0,95,Large,Large,https://www.akc.org/dog-breeds/bernese-mountain-dog/
+Bichons Frises,12.0,18.0,12.0,18,Small,Small,https://www.akc.org/dog-breeds/bichon-frise/
+Black Russian Terriers,80.0,130.0,80.0,130,Large,Large,https://www.akc.org/dog-breeds/black-russian-terrier/
+Black and Tan Coonhounds,65.0,110.0,65.0,110,Large,Large,https://www.akc.org/dog-breeds/black-and-tan-coonhound/
+Bloodhounds,90.0,110.0,80.0,100,Large,Large,https://www.akc.org/dog-breeds/bloodhound/
+Bluetick Coonhounds,55.0,80.0,45.0,65,Large,Medium,https://www.akc.org/dog-breeds/bluetick-coonhound/
+Boerboels,150.0,200.0,150.0,200,Giant,Giant,https://www.akc.org/dog-breeds/boerboel/
+Border Collies,30.0,55.0,30.0,55,Medium,Medium,https://www.akc.org/dog-breeds/border-collie/
+Border Terriers,13.0,15.5,11.5,14,Small,Small,https://www.akc.org/dog-breeds/border-terrier/
+Borzois,75.0,105.0,60.0,85,Large,Large,https://www.akc.org/dog-breeds/borzoi/
+Boston Terriers,12.0,25.0,12.0,25,Small,Small,https://www.akc.org/dog-breeds/boston-terrier/
+Bouviers des Flandres,70.0,110.0,70.0,110,Large,Large,https://www.akc.org/dog-breeds/bouvier-des-flandres/
+Boxers,65.0,80.0,50.0,65,Large,Medium,https://www.akc.org/dog-breeds/boxer/
+Boykin Spaniels,30.0,40.0,25.0,35,Medium,Medium,https://www.akc.org/dog-breeds/boykin-spaniel/
+Briards,55.0,100.0,55.0,100,Large,Large,https://www.akc.org/dog-breeds/briard/
+Brittanys,30.0,40.0,30.0,40,Medium,Medium,https://www.akc.org/dog-breeds/brittany/
+Brussels Griffons,8.0,10.0,8.0,10,Small,Small,https://www.akc.org/dog-breeds/brussels-griffon/
+Bull Terriers,50.0,70.0,50.0,70,Medium,Medium,https://www.akc.org/dog-breeds/bull-terrier/
+Bulldogs,50.0,50.0,40.0,40,Medium,Medium,https://www.akc.org/dog-breeds/bulldog/
+Bullmastiffs,110.0,130.0,100.0,120,Giant,Large,https://www.akc.org/dog-breeds/bullmastiff/
+Cairn Terriers,14.0,14.0,13.0,13,Small,Small,https://www.akc.org/dog-breeds/cairn-terrier/
+Canaan Dogs,45.0,55.0,35.0,45,Medium,Medium,https://www.akc.org/dog-breeds/canaan-dog/
+Cardigan Welsh Corgis,30.0,38.0,25.0,34,Medium,Medium,https://www.akc.org/dog-breeds/cardigan-welsh-corgi/
+Cavalier King Charles Spaniels,13.0,18.0,13.0,18,Small,Small,https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/
+Cesky Terriers,14.0,24.0,14.0,24,Small,Small,https://www.akc.org/dog-breeds/cesky-terrier/
+Chesapeake Bay Retrievers,65.0,80.0,55.0,70,Large,Large,https://www.akc.org/dog-breeds/chesapeake-bay-retriever/
+Chihuahuas,6.0,6.0,6.0,6,Small,Small,https://www.akc.org/dog-breeds/chihuahua/
+Chinese Crested,8.0,12.0,8.0,12,Small,Small,https://www.akc.org/dog-breeds/chinese-crested/
+Chinese Shar-Pei,45.0,60.0,45.0,60,Medium,Medium,https://www.akc.org/dog-breeds/chinese-shar-pei/
+Chinooks,55.0,90.0,50.0,65,Large,Medium,https://www.akc.org/dog-breeds/chinook/
+Chow Chows,45.0,70.0,45.0,70,Medium,Medium,https://www.akc.org/dog-breeds/chow-chow/
+Cirnechi dell'Etna,22.0,26.0,17.0,22,Medium,Small,https://www.akc.org/dog-breeds/cirneco-delletna/
+Clumber Spaniels,70.0,85.0,55.0,70,Large,Large,https://www.akc.org/dog-breeds/clumber-spaniel/
+Collies,60.0,75.0,50.0,65,Large,Medium,https://www.akc.org/dog-breeds/collie/
+Coton de Tulear,9.0,15.0,8.0,13,Small,Small,https://www.akc.org/dog-breeds/coton-de-tulear/
+Curly-Coated Retrievers,60.0,95.0,60.0,95,Large,Large,https://www.akc.org/dog-breeds/curly-coated-retriever/
+Dachshunds (miniature),11.0,11.0,11.0,11,Small,Small,https://www.akc.org/dog-breeds/dachshund/
+Dachshunds (standard),16.0,32.0,16.0,32,Small,Small,https://www.akc.org/dog-breeds/dachshund/
+Dalmatians,45.0,70.0,45.0,70,Medium,Medium,https://www.akc.org/dog-breeds/dalmatian/
+Dandie Dinmont Terriers,18.0,24.0,18.0,24,Small,Small,https://www.akc.org/dog-breeds/dandie-dinmont-terrier/
+Doberman Pinschers,75.0,100.0,60.0,90,Large,Large,https://www.akc.org/dog-breeds/doberman-pinscher/
+Dogues de Bordeaux,110.0,110.0,99.0,99,Giant,Large,https://www.akc.org/dog-breeds/dogue-de-bordeaux/
+English Cocker Spaniels,28.0,34.0,26.0,32,Medium,Medium,https://www.akc.org/dog-breeds/english-cocker-spaniel/
+English Foxhounds,60.0,75.0,60.0,75,Large,Large,https://www.akc.org/dog-breeds/english-foxhound/
+English Setters,65.0,80.0,45.0,55,Large,Medium,https://www.akc.org/dog-breeds/english-setter/
+English Springer Spaniels,50.0,50.0,40.0,40,Medium,Medium,https://www.akc.org/dog-breeds/english-springer-spaniel/
+English Toy Spaniels,8.0,14.0,8.0,14,Small,Small,https://www.akc.org/dog-breeds/english-toy-spaniel/
+Entlebucher Mountain Dogs,55.0,65.0,55.0,65,Large,Large,https://www.akc.org/dog-breeds/entlebucher-mountain-dog/
+Field Spaniels,35.0,50.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/field-spaniel/
+Finnish Lapphunds,33.0,53.0,33.0,53,Medium,Medium,https://www.akc.org/dog-breeds/finnish-lapphund/
+Finnish Spitz,25.0,33.0,20.0,28,Medium,Small,https://www.akc.org/dog-breeds/finnish-spitz/
+Flat-Coated Retrievers,60.0,70.0,60.0,70,Large,Large,https://www.akc.org/dog-breeds/flat-coated-retriever/
+Fox Terriers (Smooth),18.0,18.0,16.0,16,Small,Small,https://www.akc.org/dog-breeds/smooth-fox-terrier
+Fox Terriers (Wire),18.0,18.0,16.0,16,Small,Small,https://www.akc.org/dog-breeds/wire-fox-terrier
+French Bulldogs,28.0,28.0,28.0,28,Medium,Medium,https://www.akc.org/dog-breeds/french-bulldog/
+German Pinschers,25.0,45.0,25.0,45,Medium,Medium,https://www.akc.org/dog-breeds/german-pinscher/
+German Shepherd Dogs,65.0,90.0,50.0,70,Large,Medium,https://www.akc.org/dog-breeds/german-shepherd-dog/
+Giant Schnauzers,60.0,85.0,55.0,75,Large,Large,https://www.akc.org/dog-breeds/giant-schnauzer/
+Glen of Imaal Terriers,32.0,40.0,32.0,40,Medium,Medium,https://www.akc.org/dog-breeds/glen-of-imaal-terrier/
+Golden Retrievers,65.0,75.0,55.0,65,Large,Large,https://www.akc.org/dog-breeds/golden-retriever/
+Gordon Setters,55.0,80.0,45.0,70,Large,Medium,https://www.akc.org/dog-breeds/gordon-setter/
+Great Danes,140.0,175.0,110.0,140,Giant,Giant,https://www.akc.org/dog-breeds/great-dane/
+Great Pyrenees,100.0,100.0,85.0,85,Large,Large,https://www.akc.org/dog-breeds/great-pyrenees/
+Greater Swiss Mountain Dogs,115.0,140.0,85.0,110,Giant,Large,https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/
+Greyhounds,65.0,70.0,60.0,65,Large,Large,https://www.akc.org/dog-breeds/greyhound/
+Harriers,45.0,60.0,45.0,60,Medium,Medium,https://www.akc.org/dog-breeds/harrier/
+Havanese,7.0,13.0,7.0,13,Small,Small,https://www.akc.org/dog-breeds/havanese/
+Ibizan Hounds,50.0,50.0,45.0,45,Medium,Medium,https://www.akc.org/dog-breeds/ibizan-hound/
+Icelandic Sheepdogs,30.0,30.0,25.0,25,Medium,Medium,https://www.akc.org/dog-breeds/icelandic-sheepdog/
+Irish Red and White Setters,42.0,60.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/irish-red-and-white-setter/
+Irish Setters,70.0,70.0,60.0,60,Large,Large,https://www.akc.org/dog-breeds/irish-setter/
+Irish Terriers,27.0,27.0,25.0,25,Medium,Medium,https://www.akc.org/dog-breeds/irish-terrier/
+Irish Water Spaniels,55.0,68.0,45.0,58,Large,Medium,https://www.akc.org/dog-breeds/irish-water-spaniel/
+Irish Wolfhounds,120.0,120.0,105.0,105,Giant,Giant,https://www.akc.org/dog-breeds/irish-wolfhound
+Italian Greyhounds,7.0,14.0,7.0,14,Small,Small,https://www.akc.org/dog-breeds/italian-greyhound/
+Japanese Chin,7.0,11.0,7.0,11,Small,Small,https://www.akc.org/dog-breeds/japanese-chin/
+Keeshonden,35.0,45.0,35.0,45,Medium,Medium,https://www.akc.org/dog-breeds/keeshond/
+Kerry Blue Terriers,33.0,40.0,33.0,40,Medium,Medium,https://www.akc.org/dog-breeds/kerry-blue-terrier/
+Komondorok,100.0,100.0,80.0,80,Large,Large,https://www.akc.org/dog-breeds/komondor/
+Kuvaszok,100.0,115.0,70.0,90,Large,Large,https://www.akc.org/dog-breeds/kuvasz/
+Labrador Retrievers,65.0,80.0,55.0,70,Large,Large,https://www.akc.org/dog-breeds/labrador-retriever/
+Lagotti Romagnoli,28.5,35.0,24.0,31,Medium,Medium,https://www.akc.org/dog-breeds/lagotto-romagnolo/
+Lakeland Terriers,17.0,17.0,17.0,17,Small,Small,https://www.akc.org/dog-breeds/lakeland-terrier/
+Leonbergers,110.0,170.0,90.0,140,Giant,Large,https://www.akc.org/dog-breeds/leonberger/
+Lhasa Apsos,12.0,18.0,12.0,18,Small,Small,https://www.akc.org/dog-breeds/lhasa-apso/
+Lowchen,15.0,15.0,15.0,15,Small,Small,https://www.akc.org/dog-breeds/lowchen/
+Maltese,7.0,7.0,7.0,7,Small,Small,https://www.akc.org/dog-breeds/maltese/
+Manchester Terriers (standard),12.0,22.0,12.0,22,Small,Small,https://www.akc.org/dog-breeds/manchester-terrier/
+Manchester Terriers (toy),12.0,12.0,20.0,20,Small,Small,https://www.akc.org/dog-breeds/manchester-terrier/
+Mastiffs,160.0,230.0,120.0,170,Giant,Giant,https://www.akc.org/dog-breeds/mastiff/
+Miniature American Shepherds,20.0,40.0,20.0,40,Small,Small,https://www.akc.org/dog-breeds/miniature-american-shepherd/
+Miniature Bull Terriers,18.0,28.0,18.0,28,Small,Small,https://www.akc.org/dog-breeds/miniature-bull-terrier/
+Miniature Pinschers,8.0,10.0,8.0,10,Small,Small,https://www.akc.org/dog-breeds/miniature-pinscher/
+Miniature Schnauzers,11.0,20.0,11.0,20,Small,Small,https://www.akc.org/dog-breeds/miniature-schnauzer/
+Neapolitan Mastiffs,150.0,150.0,110.0,110,Giant,Giant,https://www.akc.org/dog-breeds/neapolitan-mastiff/
+Newfoundlands,130.0,150.0,100.0,120,Giant,Large,https://www.akc.org/dog-breeds/newfoundland/
+Norfolk Terriers,11.0,12.0,11.0,12,Small,Small,https://www.akc.org/dog-breeds/norfolk-terrier/
+Norwegian Buhunds,31.0,40.0,26.0,35,Medium,Medium,https://www.akc.org/dog-breeds/norwegian-buhund/
+Norwegian Elkhounds,55.0,55.0,48.0,48,Large,Medium,https://www.akc.org/dog-breeds/norwegian-elkhound/
+Norwegian Lundehunds,20.0,30.0,20.0,30,Small,Small,https://www.akc.org/dog-breeds/norwegian-lundehund/
+Norwich Terriers,12.0,12.0,12.0,12,Small,Small,https://www.akc.org/dog-breeds/norwich-terrier/
+Nova Scotia Duck Tolling Retrievers,35.0,50.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/
+Old English Sheepdogs,60.0,100.0,60.0,100,Large,Large,https://www.akc.org/dog-breeds/old-english-sheepdog/
+Otterhounds,115.0,115.0,80.0,80,Giant,Large,https://www.akc.org/dog-breeds/otterhound/
+Papillons,5.0,10.0,5.0,10,Small,Small,https://www.akc.org/dog-breeds/papillon/
+Parson Russell Terriers,13.0,17.0,13.0,17,Small,Small,https://www.akc.org/dog-breeds/parson-russell-terrier/
+Pekingese,14.0,14.0,14.0,14,Small,Small,https://www.akc.org/dog-breeds/pekingese/
+Pembroke Welsh Corgis,30.0,30.0,28.0,28,Medium,Medium,https://www.akc.org/dog-breeds/pembroke-welsh-corgi/
+Petits Bassets Griffons Vendeens,25.0,40.0,25.0,40,Medium,Medium,https://www.akc.org/dog-breeds/petit-basset-griffon-vendeen/
+Pharaoh Hounds,45.0,55.0,45.0,55,Medium,Medium,https://www.akc.org/dog-breeds/pharaoh-hound/
+Plotts,50.0,60.0,40.0,55,Medium,Medium,https://www.akc.org/dog-breeds/plott/
+Pointers,55.0,75.0,45.0,65,Large,Medium,https://www.akc.org/dog-breeds/pointer/
+Pointers (German Shorthaired),55.0,70.0,45.0,60,Large,Medium,https://www.akc.org/dog-breeds/german-shorthaired-pointer/
+Pointers (German Wirehaired),50.0,70.0,50.0,70,Medium,Medium,https://www.akc.org/dog-breeds/german-wirehaired-pointer/
+Polish Lowland Sheepdogs,30.0,50.0,30.0,50,Medium,Medium,https://www.akc.org/dog-breeds/polish-lowland-sheepdog/
+Pomeranians,3.0,7.0,3.0,7,Small,Small,https://www.akc.org/dog-breeds/pomeranian/
+Poodles (miniature),10.0,15.0,10.0,15,Small,Small,https://www.akc.org/dog-breeds/poodle/
+Poodles (standard),60.0,70.0,40.0,50,Large,Medium,https://www.akc.org/dog-breeds/poodle/
+Poodles (toy),4.0,6.0,4.0,6,Small,Small,https://www.akc.org/dog-breeds/poodle/
+Portuguese Podengo Pequenos,9.0,13.0,9.0,13,Small,Small,https://www.akc.org/dog-breeds/portuguese-podengo-pequeno/
+Portuguese Water Dogs,42.0,60.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/portuguese-water-dog/
+Pugs,14.0,18.0,14.0,18,Small,Small,https://www.akc.org/dog-breeds/pug/
+Pulik,25.0,35.0,25.0,35,Medium,Medium,https://www.akc.org/dog-breeds/puli/
+Pumik,27.0,29.0,22.0,24,Medium,Medium,https://www.akc.org/dog-breeds/pumi/
+Pyrenean Shepherds,15.0,30.0,15.0,30,Small,Small,https://www.akc.org/dog-breeds/pyrenean-shepherd/
+Rat Terriers,10.0,25.0,10.0,25,Small,Small,https://www.akc.org/dog-breeds/rat-terrier/
+Redbone Coonhounds,45.0,70.0,45.0,70,Medium,Medium,https://www.akc.org/dog-breeds/redbone-coonhound/
+Rhodesian Ridgebacks,85.0,85.0,70.0,70,Large,Large,https://www.akc.org/dog-breeds/rhodesian-ridgeback/
+Rottweilers,95.0,135.0,80.0,100,Large,Large,https://www.akc.org/dog-breeds/rottweiler/
+Russell Terriers,9.0,15.0,9.0,15,Small,Small,https://www.akc.org/dog-breeds/russell-terrier/
+Salukis,40.0,65.0,40.0,65,Medium,Medium,https://www.akc.org/dog-breeds/saluki/
+Samoyeds,45.0,65.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/samoyed/
+Schipperkes,10.0,16.0,10.0,16,Small,Small,https://www.akc.org/dog-breeds/schipperke/
+Scottish Deerhounds,85.0,110.0,75.0,95,Large,Large,https://www.akc.org/dog-breeds/scottish-deerhound/
+Scottish Terriers,19.0,22.0,18.0,21,Small,Small,https://www.akc.org/dog-breeds/scottish-terrier/
+Sealyham Terriers,23.0,24.0,23.0,24,Medium,Medium,https://www.akc.org/dog-breeds/sealyham-terrier/
+Shetland Sheepdogs,15.0,25.0,15.0,25,Small,Small,https://www.akc.org/dog-breeds/shetland-sheepdog/
+Shiba Inu,23.0,23.0,17.0,17,Medium,Small,https://www.akc.org/dog-breeds/shiba-inu/
+Shih Tzu,9.0,16.0,9.0,16,Small,Small,https://www.akc.org/dog-breeds/shih-tzu/
+Siberian Huskies,45.0,60.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/siberian-husky/
+Silky Terriers,10.0,10.0,10.0,10,Small,Small,https://www.akc.org/dog-breeds/silky-terrier/
+Skye Terriers,35.0,45.0,35.0,45,Medium,Medium,https://www.akc.org/dog-breeds/skye-terrier/
+Sloughis,35.0,50.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/sloughi/
+Soft Coated Wheaten Terriers,35.0,40.0,30.0,35,Medium,Medium,https://www.akc.org/dog-breeds/soft-coated-wheaten-terrier/
+Spanish Water Dogs,40.0,49.0,31.0,40,Medium,Medium,https://www.akc.org/dog-breeds/spanish-water-dog/
+Spinoni Italiani,56.0,56.0,56.0,56,Large,Large,https://www.akc.org/dog-breeds/spinone-italiano/
+St. Bernards,140.0,180.0,120.0,140,Giant,Giant,https://www.akc.org/dog-breeds/st-bernard/
+Staffordshire Bull Terriers,28.0,38.0,24.0,34,Medium,Medium,https://www.akc.org/dog-breeds/staffordshire-bull-terrier/
+Standard Schnauzers,35.0,50.0,30.0,45,Medium,Medium,https://www.akc.org/dog-breeds/standard-schnauzer/
+Sussex Spaniels,35.0,45.0,35.0,45,Medium,Medium,https://www.akc.org/dog-breeds/sussex-spaniel/
+Swedish Vallhunds,20.0,35.0,20.0,35,Small,Small,https://www.akc.org/dog-breeds/swedish-vallhund/
+Tibetan Mastiffs,90.0,150.0,70.0,120,Large,Large,https://www.akc.org/dog-breeds/tibetan-mastiff/
+Tibetan Spaniel,9.0,15.0,9.0,15,Small,Small,https://www.akc.org/dog-breeds/tibetan-spaniel/
+Tibetan Terriers,18.0,30.0,18.0,30,Small,Small,https://www.akc.org/dog-breeds/tibetan-terrier/
+Toy Fox Terriers,3.5,7.0,3.5,7,Small,Small,https://www.akc.org/dog-breeds/toy-fox-terrier/
+Treeing Walker Coonhounds,50.0,70.0,50.0,70,Medium,Medium,https://www.akc.org/dog-breeds/treeing-walker-coonhound/
+Vizslas,55.0,60.0,44.0,55,Large,Medium,https://www.akc.org/dog-breeds/vizsla/
+Weimaraners,70.0,90.0,55.0,75,Large,Large,https://www.akc.org/dog-breeds/weimaraner/
+Welsh Springer Spaniels,40.0,55.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/welsh-springer-spaniel/
+Welsh Terriers,20.0,20.0,20.0,20,Small,Small,https://www.akc.org/dog-breeds/welsh-terrier/
+West Highland White Terriers,15.0,20.0,15.0,20,Small,Small,https://www.akc.org/dog-breeds/west-highland-white-terrier/
+Whippets,25.0,40.0,25.0,40,Medium,Medium,https://www.akc.org/dog-breeds/whippet/
+Wirehaired Pointing Griffons,50.0,70.0,35.0,50,Medium,Medium,https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/
+Wirehaired Vizslas,55.0,65.0,45.0,55,Large,Medium,https://www.akc.org/dog-breeds/wirehaired-vizsla/
+Xoloitzcuintli (miniature),15.0,30.0,15.0,30,Small,Small,https://www.akc.org/dog-breeds/xoloitzcuintli/
+Xoloitzcuintli (standard),30.0,55.0,30.0,55,Medium,Medium,https://www.akc.org/dog-breeds/xoloitzcuintli/
+Xoloitzcuintli (toy),10.0,15.0,10.0,15,Small,Small,https://www.akc.org/dog-breeds/xoloitzcuintli/
+Yorkshire Terriers,7.0,7.0,7.0,7,Small,Small,https://www.akc.org/dog-breeds/yorkshire-terrier/
