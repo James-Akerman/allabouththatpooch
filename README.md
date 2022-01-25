@@ -16,7 +16,7 @@ An website all about dogs. Users can upload an image of their favourite dog the 
 
 Visit the website and try it for yourself at https://allaboutthatpooch.herokuapp.com/
 
-![website](readme_images/website_picture)
+![website](readme_images/website_picture.JPG)
 
 <br>
 
