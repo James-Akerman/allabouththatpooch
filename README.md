@@ -11,7 +11,7 @@ An website all about dogs. Users can upload an image of their favourite dog the 
   - ResNet50 pretrained model.
   - Image is then read and analysed by the Tensorflow pretrained Resnet50 model which returns a breed of the dog in the uploaded image, as well as the probability of it being that breed.
 - **Graphs of the top and bottom ten dog breeds by sex**
-  - graphs made using Plotly.js using data [scraped](akc_data) from the [American Kennal Club website](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/) using Beautiful Soup and Pandas.
+  - Graphs made using Plotly.js using data [scraped](akc_data) from the [American Kennal Club website](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/) using Beautiful Soup and Pandas.
 
 
 Visit the website and try it for yourself at https://allaboutthatpooch.herokuapp.com/
