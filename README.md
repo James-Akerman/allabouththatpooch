@@ -43,7 +43,7 @@ Visit the website and try it for yourself at https://allaboutthatpooch.herokuapp
 <br>
 
 ## How to use
-- Visit the [website](https://allaboutthatpooch.herokuapp.com/)
+- Visit the [website](https://allaboutthatpooch.herokuapp.com/).
 - Alternative you can clone the website and deploy it locally.
   - Clone and download the package.
   - Create an env file add create a key for [azure](https://docs.microsoft.com/en-us/azure/virtual-machines/ssh-keys-portal) `AZURE_KEY` (for the `captions_generator.py` file) and and an access key `AWS_ACCESS_KEY` and a secret key `AWS_SECRET_KEY` for [amazon](https://aws.amazon.com/premiumsupport/knowledge-center/create-access-key/) (for the `app.py` file).
