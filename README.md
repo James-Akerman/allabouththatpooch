@@ -19,7 +19,7 @@ Visit the website and try it for yourself at https://allaboutthatpooch.herokuapp
 <br>
 
 ## Tools/Packages used
-- HMTL5
+- HTML5
 - CSS
 - Javascript
   - Bootstrap
