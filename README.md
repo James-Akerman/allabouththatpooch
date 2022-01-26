@@ -1,7 +1,7 @@
 # All about that pooch
 
 ## Overview of the Project
-An website all about dogs. Users can upload an image of their favourite dog the website will guess what breed it is, as well as recieve a caption for the uploaded image. The website also contains interesting information dog weights scrapped from the [American Kennal Club website](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/).
+An website all about dogs. Users can upload an image of their favourite dog the website will guess what breed it is, as well as recieve a caption for the uploaded image. The website also contains interesting on information dog weights (in pounds) which has been scrapped from the [American Kennal Club website](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/).
 
 ### Key Website Features
 - **Image Caption Generator**
