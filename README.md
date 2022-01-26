@@ -5,11 +5,11 @@ An website all about dogs. Users can upload an image of their favourite dog the 
 
 ### Key Website Features
 - **Image Caption Generator**
-  - Image is uploaded to an AWS s3 bucket and then read and analysed by the pretrained Azure ComputerVision model from [Microsoft Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) which returns an image caption for it.
+  - A feature which allows an image to be uploaded to an AWS s3 bucket and then read and analysed by the pretrained Azure ComputerVision model from [Microsoft Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) which returns an image caption for it.
 - **Image Classifier**
-  - Image is uploaded to an AWS s3 bucket and then read and analysed by the Tensorflow pretrained ResNet50 model which returns a breed of the dog in the uploaded image, as well as the probability of it being that breed.
+  - A feature which allows an image to be uploaded to an AWS s3 bucket and then read and analysed by the Tensorflow pretrained ResNet50 model which returns a breed of the dog in the uploaded image, as well as the probability of it being that breed.
 - **Graphs of the top and bottom ten dog breeds by sex**
-  - Graphs made using Plotly.js using data [scraped](akc_data) from the [American Kennal Club website](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/) using Beautiful Soup and Pandas.
+  - Graphs created made using Plotly.js using data scraped from the [American Kennal Club website](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/) using Beautiful Soup and Pandas.
 
 
 Visit the website and try it for yourself at https://allaboutthatpooch.herokuapp.com/
