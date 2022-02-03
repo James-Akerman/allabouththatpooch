@@ -11,9 +11,6 @@ A website all about dogs. Users can upload an image of their favourite dog the w
 - **Graphs of the top and bottom ten dog breeds by sex**
   - Graphs created made using Plotly.js using data scraped from the [American Kennal Club website](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/) using [Beautiful Soup and Pandas](akc_data).
 
-
-Visit the website and try it for yourself at https://allaboutthatpooch.herokuapp.com/
-
 ![website](readme_images/website_picture.JPG)
 
 <br>
@@ -41,8 +38,7 @@ Visit the website and try it for yourself at https://allaboutthatpooch.herokuapp
 <br>
 
 ## How to use
-- Visit the [website](https://allaboutthatpooch.herokuapp.com/).
-- Alternative you can clone the website and deploy it locally.
+- You can clone the website and deploy it locally.
   - Clone and download the package.
   - Create an env file add create a key for [azure](https://docs.microsoft.com/en-us/azure/virtual-machines/ssh-keys-portal) `AZURE_KEY` (for the `captions_generator.py` file) and and an access key `AWS_ACCESS_KEY` and a secret key `AWS_SECRET_KEY` for [amazon](https://aws.amazon.com/premiumsupport/knowledge-center/create-access-key/) (for the `app.py` file).
   - Create a bucket in S3 following these [instructions](https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html) and change the `BUCKET_NAME` and `BUCKET_PATH` variables in the `app.py` file on lines 75 and 76 respectively.
